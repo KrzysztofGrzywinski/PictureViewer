@@ -1,0 +1,16 @@
+D:\LABORATORIUM\docu\Visual Studio 2015\KGR\PictureViewer\PictureViewer\bin\Debug\PictureViewer.exe.config
+D:\LABORATORIUM\docu\Visual Studio 2015\KGR\PictureViewer\PictureViewer\bin\Debug\PictureViewer.exe
+D:\LABORATORIUM\docu\Visual Studio 2015\KGR\PictureViewer\PictureViewer\bin\Debug\PictureViewer.pdb
+D:\LABORATORIUM\docu\Visual Studio 2015\KGR\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csprojResolveAssemblyReference.cache
+D:\LABORATORIUM\docu\Visual Studio 2015\KGR\PictureViewer\PictureViewer\obj\Debug\MainWindow.g.cs
+D:\LABORATORIUM\docu\Visual Studio 2015\KGR\PictureViewer\PictureViewer\obj\Debug\App.g.cs
+D:\LABORATORIUM\docu\Visual Studio 2015\KGR\PictureViewer\PictureViewer\obj\Debug\PictureViewer_MarkupCompile.cache
+D:\LABORATORIUM\docu\Visual Studio 2015\KGR\PictureViewer\PictureViewer\obj\Debug\PictureViewer_MarkupCompile.lref
+D:\LABORATORIUM\docu\Visual Studio 2015\KGR\PictureViewer\PictureViewer\obj\Debug\MainWindow.baml
+D:\LABORATORIUM\docu\Visual Studio 2015\KGR\PictureViewer\PictureViewer\obj\Debug\PictureViewer.g.resources
+D:\LABORATORIUM\docu\Visual Studio 2015\KGR\PictureViewer\PictureViewer\obj\Debug\PictureViewer.Properties.Resources.resources
+D:\LABORATORIUM\docu\Visual Studio 2015\KGR\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csproj.GenerateResource.Cache
+D:\LABORATORIUM\docu\Visual Studio 2015\KGR\PictureViewer\PictureViewer\obj\Debug\PictureViewer.exe
+D:\LABORATORIUM\docu\Visual Studio 2015\KGR\PictureViewer\PictureViewer\obj\Debug\PictureViewer.pdb
+D:\LABORATORIUM\docu\Visual Studio 2015\KGR\PictureViewer\PictureViewer\obj\Debug\About.g.cs
+D:\LABORATORIUM\docu\Visual Studio 2015\KGR\PictureViewer\PictureViewer\obj\Debug\About.baml
